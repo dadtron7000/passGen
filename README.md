@@ -7,7 +7,7 @@ The criteria are as follows: enter a number between 8 and 128, use lower case le
 use upper case letters y/n, use numbers y/n, and use special characters y/n.
 upon completion your password will be generated using the criteria you selected.
 
-## Scrennshots
+## Screenshots
 ![](https://github.com/dadtron7000/passGen/blob/main/images/Password%20Generator%20-%20Google%20Chrome%206_22_2021%2011_05_34%20AM.png)
 
 ![](https://github.com/dadtron7000/passGen/blob/main/images/Password%20Generator%20-%20Google%20Chrome%206_22_2021%2011_05_42%20AM.png)
@@ -19,3 +19,6 @@ upon completion your password will be generated using the criteria you selected.
 ![](https://github.com/dadtron7000/passGen/blob/main/images/Password%20Generator%20-%20Google%20Chrome%206_22_2021%2011_06_35%20AM.png)
 
 ![](https://github.com/dadtron7000/passGen/blob/main/images/Password%20Generator%20-%20Google%20Chrome%206_22_2021%2011_06_42%20AM.png)
+
+# live page on github
+https://dadtron7000.github.io/passGen/
